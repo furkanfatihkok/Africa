@@ -219,11 +219,8 @@
 				021588662AEABB9900ABFEDD /* ExternalWebLinkView.swift */,
 				02914A182AEBF9500020983E /* VideoListItemView.swift */,
 				02914A1A2AEBF9550020983E /* VideoPlayerView.swift */,
-<<<<<<< HEAD
 				02DCE2DC2AF10C4C00112297 /* MapAnnotionView.swift */,
-=======
 				025C39AE2AF12B3000D469C9 /* AnimalGridItemView.swift */,
->>>>>>> GalerryCustom
 			);
 			path = View;
 			sourceTree = "<group>";
